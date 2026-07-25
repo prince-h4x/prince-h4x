@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Cyber Security & AI Projects<br><br>👯 I’m looking to collaborate on<br>Open Source & Beginner-Friendly Projects<br><br>🤝 I’m looking for help with<br>Machine Learning & Backend Development<br><br>🌱 I’m currently learning<br>DSA • Python • C++ • Cyber Security<br><br>💬 Ask me about<br>Python, Git & GitHub, DSA<br><br>⚡ Fun fact<br>Building today, improving every day. 🚀
+🔐 Cyber Security Enthusiast
+
+🤖 Exploring Artificial Intelligence
+
+💻 Building Python Automation & Real-world Projects
+
+📚 Currently learning Java • DSA • System Design
+
+🎯 Goal
+Build software that's useful, secure and scalable.
 
 
 ## 🌐 Socials:
